@@ -30,4 +30,5 @@ def updateStockTicker(ticker: str):
     else:
         print(f'{ticker}.csv is not up to date.')
 
-updateStockTicker('AACG')
+
+
